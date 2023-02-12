@@ -2,10 +2,6 @@
 title: Development Of Policy Administration Point For Attribute Based Access Control
 date: 2023-02-12
 tags:
-    - java
-    - typescript
-    - spring
-    - reactjs
     - abac
     - xacml
     - access-control
