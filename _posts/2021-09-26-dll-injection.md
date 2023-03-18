@@ -6,6 +6,10 @@ tags:
     - windows
     - c++
 toc: true
+header:
+    teaser: /assets/images/dll-injection/dll-injection-cover.png
+    overlay_image: /assets/images/dll-injection/dll-injection-cover.png
+    overlay_filter: 0.6
 ---
 
 # Introduction
