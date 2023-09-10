@@ -1,15 +1,16 @@
 ---
-title: Capture Discord Gateways Intents
+title: Create a Discord Selfbot
 date: 2022-04-07
 tags:
     - discord
+    - selfbot
     - nodejs
     - typescript
 toc: true
 ---
 
 # Introduction
-In this tutorial I will show you how to create a NodeJS application that captures Discord Gateways Intents. For the purpose of this tutorial I will focus on `MESSAGE_CREATE` intent, so we will create a NodeJS application that listens for new messages over Websockets. I assume that you are already familiar with NodeJS and TypeScript programming language, so I will focus on how Discord Gateways works.
+In this tutorial I will show you how to create a Discord selfbot in NodeJS. In order for us to create our selfbot we need to understand how Discord Gateway works. For the purpose of this tutorial I will focus on `MESSAGE_CREATE` intent so we capture new messages over Websockets. I assume that you are already familiar with NodeJS and TypeScript programming language, so I will focus on how Discord Gateways works.
 <br>
 If you don't really care about Discord Gateways internals, you can skip the rest of the article and use my [discord-gateways module](#using-discord-gateways).
 
