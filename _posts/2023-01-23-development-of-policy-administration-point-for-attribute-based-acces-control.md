@@ -6,6 +6,10 @@ tags:
     - xacml
     - access-control
 toc: true
+header:
+    teaser: /assets/images/development-of-policy-administration-point-for-attribute-based-acces-control/cover.png
+    overlay_image: /assets/images/development-of-policy-administration-point-for-attribute-based-acces-control/cover.png
+    overlay_filter: 0.6
 ---
 
 # Introduction
