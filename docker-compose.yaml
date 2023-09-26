@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  gsoultos:
+    image: ruby:2.5
+    volumes:
+      - ./:/gsoultos
+    ports:
+      - "4000:4000"
+
+networks:
+  gsoultos:
+    name: gsoultos
