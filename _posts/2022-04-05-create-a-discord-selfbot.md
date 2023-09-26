@@ -7,6 +7,10 @@ tags:
     - nodejs
     - typescript
 toc: true
+header:
+    teaser: /assets/images/create-a-discord-selfbot/cover.png
+    overlay_image: /assets/images/create-a-discord-selfbot/cover.png
+    overlay_filter: 0.6
 ---
 
 # Introduction
