@@ -23,7 +23,7 @@ In order to authenticate our client on Discord Gateway, we will need to find the
 3. Go to `Network` tab.
 4. Send a message to anyone.
 5. Select the `messages` packet, make sure that `Headers` tab is selected, and scroll down to find and copy the `authorization` header under the `Request Headers`.
-![Authorization token](/assets/images/capture-discord-gateways-intents/token-instructions.png)
+![Authorization token](/assets/images/create-a-discord-selfbot/token-instructions.png)
 
 That's it! Now that we have our authentication token, we can proceed to the code.
 
