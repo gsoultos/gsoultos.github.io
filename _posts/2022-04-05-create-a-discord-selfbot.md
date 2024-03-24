@@ -11,6 +11,7 @@ header:
     teaser: /assets/images/create-a-discord-selfbot/cover.png
     overlay_image: /assets/images/create-a-discord-selfbot/cover.png
     overlay_filter: 0.6
+excerpt:  Automate Discord tasks with your own selfbot! Build a selfbot to automate tasks and extend Discord functionality. This tutorial guides you through creating a selfbot using Websockets
 ---
 
 # Introduction

@@ -10,6 +10,7 @@ header:
     teaser: /assets/images/dll-injection/cover.png
     overlay_image: /assets/images/dll-injection/cover.png
     overlay_filter: 0.6
+excerpt: Unleash the power of DLL injection! A comprehensive guide that explains what DLL injection is and how you can achieve it in practice. Take control of program behavior!
 ---
 
 # Introduction

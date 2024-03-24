@@ -10,6 +10,7 @@ header:
     teaser: /assets/images/development-of-policy-administration-point-for-attribute-based-acces-control/cover.png
     overlay_image: /assets/images/development-of-policy-administration-point-for-attribute-based-acces-control/cover.png
     overlay_filter: 0.6
+excerpt: Simplify ABAC for everyone! This article explores the development of a policy administration point for attribute-based access control, enabling non-technical users to create and manage ABAC policies 
 ---
 
 # Introduction
